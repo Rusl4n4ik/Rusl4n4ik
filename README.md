@@ -6,7 +6,7 @@
 <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
 <div>
 <h2 align="center"><b> Hello </h2>
-<img src="https://64.media.tumblr.com/e1be22be95515be89bd9e2dfe57ee50e/tumblr_mt73fsIRe91qiz0hvo1_500.gif" align="right">
+<img src="https://64.media.tumblr.com/f44184258bf3c3712d2029e90c391a96/2bedce2ee85c7685-c2/s400x600/7cf70985fd5e73d8cf4876722b348312e5be1cde.gif" align="right">
  <h4>About me:</h4>
 <li>
  <b>Name:</b>Ruslan</li>
