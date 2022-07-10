@@ -9,7 +9,7 @@
 <img src="https://64.media.tumblr.com/d78024046c454cdcc6d67470c8b9afaf/03f16b8a970a5266-4a/s540x810/52371c5da413de01376cf2ec0811c485a53383ca.gif" align="right">
  <h4>About me:</h4>
 <li>
- <b>Name:</b>Ruslan</li>
+ <b>Name:</b> Ruslan</li>
 <li>
 <b>Loves:</b> anime, Genshin, football
 </li>
