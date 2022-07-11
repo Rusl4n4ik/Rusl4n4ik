@@ -1,4 +1,14 @@
-<h1 align="center">Hi 👋, I'm Ruslan4ik</h1>
+<h1 align="center">Hi 🐱‍👤, I'm Ruslan4ik</h1>
+<img src="https://64.media.tumblr.com/d78024046c454cdcc6d67470c8b9afaf/03f16b8a970a5266-4a/s540x810/52371c5da413de01376cf2ec0811c485a53383ca.gif" align="right">
+ <h4>About me:</h4>
+<li>
+ <b>Name:</b> Ruslan</li>
+<li>
+<b>Loves:</b> anime, Genshin, football
+</li>
+<li>
+<b>Gender:</b> he/his/Male
+</li>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/rusl4n4ik_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rusl4n4ik_23" height="30" width="40" /></a>
